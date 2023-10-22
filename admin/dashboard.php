@@ -124,7 +124,7 @@ if (!isset($admin_id)) {
     </section>
 
 
-    <script src="../js/admin.js"></script>
+    <script src="../js/admin_js.js"></script>
 </body>
 
 </html>
